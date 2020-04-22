@@ -15,3 +15,8 @@ In the current study, we use 5 cluster algorithms:
 3) Hierarchical Complete Linkage
 4) Hierarchical Average Linkage
 5) Distance Density Clustering(DDC) - newly proposed algorithm mentioned in (Ref: Ruizhe Ma and Rafal Angryk, 2017. 2375-9259/17 © 2017 IEEE DOI 10.1109/ICDMW.2017.11)
+
+
+We study 7 internal indices here - Ball Hall Index, Banfeld Raftery Index, Calinsky Harabasz Index, Davies Bouldin Index, Log SS ratio Index, PBM Index and RTI Index.
+
+The datasets that we have studied are taken from UCR data repository (https://www.cs.ucr.edu/~eamonn/time_series_data_2018/) and they are - ArrowHead, BeetleFly, BirdChicken, Coffee, Gunpoint, Ham, Meat, SonyAIBORobotSurface, ToeSegmentation2 and Wine 
