@@ -1,0 +1,2 @@
+This index is the square of the largest distance between two barycenters multiplied by the ratio of the sum of the distances of all the points to the barycenter G of the entire data set and the sum of the distances of the points of each cluster to their barycenter divided by the number of clusters.
+The bigger the value, better is the cluster validation.
