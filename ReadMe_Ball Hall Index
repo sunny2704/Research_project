@@ -4,3 +4,5 @@ The mean dispersion of a cluster is the mean of the squared distances of the poi
 The Ball-Hall index is the mean, through all the clusters, of their mean dispersion
 
 The one with the maximum difference is the best method
+
+The code for this has been attached here
