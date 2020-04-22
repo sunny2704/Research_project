@@ -1,0 +1,7 @@
+Refer to the presentation in the master branch for more details.
+
+This index is given as the ratio of the weighted sum of the squared distances between the 𝐺^{𝑘}  and G, the weight being the number nk of elements in the cluster Ck and the sum of the squared distances between the observations 𝑀^{𝑘}   i and the barycenter 𝐺^{𝑘}  of the cluster.
+This is divided by the ratio of number of cluster subtracted from total number of clusters divided by one less than total number of clusters.
+The bigger the index value, the better is the clustering.
+
+The code for this has been attached here
