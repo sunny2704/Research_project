@@ -6,3 +6,23 @@ The Ball-Hall index is the mean, through all the clusters, of their mean dispers
 The one with the maximum difference is the best method
 
 The code for this has been attached here
+
+
+Ball Hall Index:
+
+The mean dispersion of a cluster is the mean of the squared distances of the points of the cluster with respect to their barycenter.
+The Ball-Hall index is the mean, through all the clusters, of their mean dispersion
+The one with the maximum difference is the best method.
+
+Mathematically,
+
+ Ball Hall Index is
+ 
+𝐶=1/𝐾  ∑1_(𝑘=1)^𝐾▒〖1/𝑛_𝑘  ∑1_(𝑖 ∈𝐼_𝑘)▒‖𝑀_𝑖^{𝑘} − 𝐺^{𝑘}  ‖^2 〗
+
+Where 	K is the number of clusters
+	 𝑛_𝑘 number of observations in cluster k
+	M is a point in the cluster and,
+	G is the barycenter of the cluster
+
+
