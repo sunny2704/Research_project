@@ -1,0 +1,3 @@
+the numerator is the mean of the squared distances of all the points with respect to the barycenter of the cluster they belong to.
+the denominator is the minimum of the squared distances ∆𝑘𝑘’ between all the cluster barycenters.
+The lower the value, the better validation it is.
