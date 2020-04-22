@@ -1,0 +1,7 @@
+Refer to the presentation in the master branch for more details.
+
+This index is the weighted sum of the logarithms of the traces of the variance-covariance matrix of each cluster.
+The quantity Tr(W 𝐺^{𝑘} )/𝑛_𝑘 can be interpreted as the mean of the squared distances between the points in cluster 𝐶_𝑘 and their barycenter 𝐺^{𝑘} 
+The one with the minimum value is the best clustering here.
+
+The code for this has been attached here
